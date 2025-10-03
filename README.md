@@ -28,6 +28,7 @@ All data cleaning, analysis, and visualization were performed in Excel without e
 ### Data Sources
 Titanic dataset: the primary dataset used for this analysis “titanic dataset csv” file containing detailed information about those on board 
 
+Screenshot 2025-10-02 131908.png
 
 ### Tools
 - Excel
