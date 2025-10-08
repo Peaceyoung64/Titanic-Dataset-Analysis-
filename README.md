@@ -16,19 +16,20 @@
 
 [Insights and Key Findings](#insights-and-key-findings)
 
-[Recommendations](#Recommendations)
+[Recommendations](#recommendations)
 
-[Limitations](#Limitations)
+[Limitations](#limitations)
 
-[References](#References)
+[References](#references)
 
 ### Project Overview
 The analysis focuses on understanding survival patterns based on passenger demographics, travel class, and family groups.
 All data cleaning, analysis, and visualization were performed in Excel without external tools.
+
+<img width="885" height="422" alt="Screenshot 2025-10-02 131908" src="https://github.com/user-attachments/assets/90d24d95-d810-4a40-87e1-d312e471dc49" />
+
 ### Data Sources
 Titanic dataset: the primary dataset used for this analysis “titanic dataset csv” file containing detailed information about those on board 
-
-Screenshot 2025-10-02 131908.png
 
 ### Tools
 - Excel
