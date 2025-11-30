@@ -23,8 +23,10 @@
 [References](#references)
 
 ### Project Overview
-The analysis focuses on understanding survival patterns based on passenger demographics, travel class, and family groups.
-All data cleaning, analysis, and visualization were performed in Excel without external tools.
+The Titanic Survival Analysis explores one of the most well known historical datasets to understand the factors that influenced passenger survival during the tragic 1309 voyage. This project focuses on cleaning, analyzing, and visualizing the data to uncover meaningful patterns related to demographics, socio-economic status, and travel conditions.
+The dataset was examined to identify trends across variables such as age, gender, passenger class, fare, and family size. The analysis highlights how different groups were affected, the disparities in survival rates, and the underlying insights that help explain these outcomes.
+
+The project demonstrates key data analysis skills, including data preparation, exploratory data analysis, feature interpretation, and insight communication. By breaking down the dataset and presenting findings through visualizations, the analysis provides a structured understanding of what factors significantly contributed to survival aboard the Titanic.
 
 <img width="885" height="422" alt="Screenshot 2025-10-02 131908" src="https://github.com/user-attachments/assets/90d24d95-d810-4a40-87e1-d312e471dc49" />
 
